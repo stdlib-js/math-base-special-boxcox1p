@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-boxcox1p",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compute a one-parameter Box-Cox transformation of 1+x.",
   "license": "Apache-2.0",
   "author": {
