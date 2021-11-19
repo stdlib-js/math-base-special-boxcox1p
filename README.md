@@ -20,7 +20,7 @@ limitations under the License.
 
 # boxcox1p
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute a one-parameter [Box-Cox transformation][box-cox-transformation] of `1+x`.
 
@@ -197,8 +197,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-boxcox1p/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-boxcox1p?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/math-base-special-boxcox1p.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/math-base-special-boxcox1p/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
