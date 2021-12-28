@@ -44,7 +44,7 @@
     "@stdlib/math-base-special-log1p": "^0.0.x"
   },
   "devDependencies": {
-    "@stdlib/array-incrspace": "^0.0.x",
+    "@stdlib/array-base-incrspace": "^0.0.x",
     "@stdlib/bench": "^0.0.x",
     "@stdlib/constants-float64-eps": "^0.0.x",
     "@stdlib/random-base-randu": "^0.0.x",
