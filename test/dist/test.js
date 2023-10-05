@@ -31,12 +31,12 @@ var boxcox1p = require( './../../dist' );
 
 // FIXTURES //
 
-var mediumPositive = require( './../..xtures/python/medium_positive.json' );
-var smallPositive = require( './../..xtures/python/small_positive.json' );
-var verySmall = require( './../..xtures/python/very_small.json' );
-var tiny = require( './../..xtures/python/tiny.json' );
-var tinyLargeLambda = require( './../..xtures/python/tiny_and_large_lambda.json' );
-var tinyLambda = require( './../..xtures/python/tiny_lambda.json' );
+var mediumPositive = require( './../fixtures/python/medium_positive.json' );
+var smallPositive = require( './../fixtures/python/small_positive.json' );
+var verySmall = require( './../fixtures/python/very_small.json' );
+var tiny = require( './../fixtures/python/tiny.json' );
+var tinyLargeLambda = require( './../fixtures/python/tiny_and_large_lambda.json' );
+var tinyLambda = require( './../fixtures/python/tiny_lambda.json' );
 
 
 // TESTS //
