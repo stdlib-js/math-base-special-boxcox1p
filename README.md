@@ -63,6 +63,11 @@ A one-parameter [Box-Cox transformation][box-cox-transformation] is defined as
 ## Usage
 
 ```javascript
+import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-boxcox1p/tags). For example,
+
+```javascript
 import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@v0.2.0-deno/mod.js';
 ```
 
@@ -107,7 +112,7 @@ v = boxcox1p( -1.0, -1.0 );
 
 ```javascript
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@deno/mod.js';
-import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@v0.2.0-deno/mod.js';
+import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@deno/mod.js';
 
 var x = incrspace( -1.0, 10.0, 1.0 );
 var l = incrspace( -0.5, 5.0, 0.5 );
