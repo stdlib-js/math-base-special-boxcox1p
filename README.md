@@ -63,7 +63,7 @@ A one-parameter [Box-Cox transformation][box-cox-transformation] is defined as
 ## Usage
 
 ```javascript
-import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@deno/mod.js';
+import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@v0.3.0-deno/mod.js';
 ```
 
 #### boxcox1p( x, lambda )
@@ -107,7 +107,7 @@ v = boxcox1p( -1.0, -1.0 );
 
 ```javascript
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@deno/mod.js';
-import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@deno/mod.js';
+import boxcox1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-boxcox1p@v0.3.0-deno/mod.js';
 
 var x = incrspace( -1.0, 10.0, 1.0 );
 var l = incrspace( -0.5, 5.0, 0.5 );
